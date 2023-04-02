@@ -19,6 +19,13 @@
 ## 🚀 Getting Started
 
 ### Install
+#### MacOS 환경
+```
+node: v12.22.12
+```
+- https://github.com/nodejs/node-gyp
+
+
 #### npm 설치
 ```
 cd frontend
